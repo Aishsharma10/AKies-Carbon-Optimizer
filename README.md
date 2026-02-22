@@ -31,4 +31,4 @@ The tool compares your choices against industry-standard "Green Paths":
 * **Regional/Short-Haul:** Recommends Rail over Trucking for a 70% reduction in carbon footprint.
 
 ---
-*Developed by [Your Name] as part of the AKies Automation Project.*
+*Developed by Aishwaryakumar as part of the AKies Automation Project.*
