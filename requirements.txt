@@ -1,0 +1,9 @@
+streamlit
+plotly
+fpdf2
+searoute
+folium
+streamlit-folium
+airportsdata
+pycountry
+geopy
